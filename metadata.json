@@ -1,0 +1,9 @@
+{
+  "name": "No Titlebar When Maximized",
+  "description": "Hides the classic title bar of maximized X.Org windows",
+  "url": "https://github.com/ahtesham-clcbws/no-titlebar-when-maximized",
+  "uuid": "no-titlebar-when-maximized@ahtesham-clcbws",
+  "shell-version": ["45", "46", "47"],
+  "session-modes": ["user", "unlock-dialog"],
+  "version": 17
+}
